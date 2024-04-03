@@ -24,3 +24,4 @@ NOTE📝 :
  
  Nb: This is my first project so ui is not perfect🙌
 "# Learning-Management-portal" 
+"# LMSS"  frontend backend .gitgnore
